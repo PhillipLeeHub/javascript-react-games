@@ -1,2 +1,2 @@
 # javascript-react-games
-Building fun games with react.
+Contains a list of react games.
